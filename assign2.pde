@@ -84,7 +84,7 @@ void draw(){
   if(fighterY>height-50){
     fighterY=height-50;
   }
-  if(fighterY<0){
+  if(fighterY<0){ 
     fighterY=0;
   }
   
